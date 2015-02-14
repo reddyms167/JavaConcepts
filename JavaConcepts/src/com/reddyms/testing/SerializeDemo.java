@@ -11,7 +11,7 @@ public class SerializeDemo {
 	public static void main(String[] args) {
 
 		Employee e = new Employee();
-		e.name = "John Doe";
+		e.name = "Jane Doe";
 		e.address = "123 Anystreet ave, Nocity, Nostate, 50266";
 		e.SSN = 112233445;
 		e.number = 101;
